@@ -11,7 +11,7 @@ Model** to assess candidates' knowledge, skills, and abilities.
 # Technologies :
 ### 1) MySQL
 # Other Technologies :
-I did this project using HTML, CSS, Java
+I did this project using HTML, CSS, JavaScript and Java
 # ScreenShots of Project :
 ![Screenshot (36)](https://github.com/parth-rane-7227/candidate_assessment/assets/90836282/18a5a3ff-8d15-48e8-b806-49244826d290)
 ![Screenshot (37)](https://github.com/parth-rane-7227/candidate_assessment/assets/90836282/500fbf19-b505-45f1-9524-043112a772c5)
